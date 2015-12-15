@@ -22,3 +22,6 @@ Was macht Sinn?
 
 5) Betrachten Sie die Meldungen von PMD.
 Wie unterscheiden sich diese von Checkstyle?
+
+
+6) Änderung
